@@ -1,5 +1,0 @@
-Channel secret 				: c1e41a76fb58848a13227e1acc8d7adb
-Your user ID   				: Ua3f8159c95b680248715a2ea105bd969
-Channel access token (long-lived) 	: Gg/axEQ+q0aOOtgfJjgpGR3MoI5iuDS7yNirHp+Q6TgCXWrqLEBT/6smzx5JwCF8n6h1GNqfZpr40EMNs18jZmIjC8yYoZxWSIEieCZqcD8WGXV9LZk9OeLMq1/OsLwgFn2mqLltXhs5V4Rh/5EUzAdB04t89/1O/w1cDnyilFU=
-
-https://github.com/BingHongLi/ai-chatbot-tutorial
